@@ -11,6 +11,11 @@ package com.mycompany.pertemuan4soal1;
 public class Pertemuan4soal1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int angka1 = 10;
+        int angka2 =3;
+        
+        System.out.println("A + B: " + (angka1 + angka2) );
+        System.out.println("A - B: " + (angka1 - angka2) );
+        System.out.println("A * B: " + (angka1 * angka2) );
     }
 }
